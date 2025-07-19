@@ -60,11 +60,12 @@ This project served as a bridge between academic theory and professional enginee
 
 ## Repository Contents
 
-- `/Images` – Photos of the control panel, schematics, CAD models, and system hardware  
-- `/Videos` – Demo videos of the system in operation  
-- `/Documentation` – Final project report, presentation slides, wiring diagrams, and schematics  
-- `/PLC_Code` – Connected Components Workbench (.ccwarc) project file and ladder logic PDFs  
-- `README.md` – Project overview (this file)
+- [Images](./Images) – Photos of the control panel, schematics, CAD models, and system hardware  
+- [Videos](./Videos) – Demo videos of the system in operation  
+- [Documentation](./Documentation) – Final project report, presentation slides, wiring diagrams, and schematics  
+- [PLC_Code](./PLC_Code) – Connected Components Workbench (.ccwarc) project file and ladder logic PDFs  
+- [README.md](./README.md) – Project overview (this file)
+
 
 ---
 
