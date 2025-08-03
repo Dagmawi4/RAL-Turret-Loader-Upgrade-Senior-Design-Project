@@ -1,4 +1,4 @@
-# RAL Turret Loader Upgrade (Senior Design Project)
+S# RAL Turret Loader Upgrade (Senior Design Project)
 
 ## Overview
 This project modernizes and automates the core loading system on the RAL production line at **Taylor Corporation – Label Works Division**.  
@@ -76,11 +76,19 @@ This project served as a bridge between academic theory and professional enginee
 
 ---
 
-## Team & Collaboration
+## 🤝 Team & Collaboration
+
 This project was completed by:
-- **Dagmawi Abera**
-- **Omar Elkenawy**
-- **Hamede Abdulgafur**
+
+- **Dagmawi Abera** — Product Manager (Product Owner)  
+  Led the project vision, system architecture planning, and end-to-end technical coordination between hardware and software teams. Oversaw milestone delivery and integration strategy.
+
+- **Omar Elkenawy** — Hardware Design & Quality Engineer  
+  Designed and validated the physical circuit, selected components, and ensured hardware reliability and signal integrity.
+
+- **Hamede Abdulgafur** — Software Engineer & System Integration Lead  
+  Developed embedded software, handled firmware-to-hardware communication, and managed the full system integration and testing pipeline.
+
 
 With special thanks to:
 - **Lance Noska** (Controls Engineer, Taylor Corporation) – Project mentor and technical advisor.  
